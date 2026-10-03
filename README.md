@@ -61,10 +61,8 @@ The algorithms were benchmarked on:
 
 ## Repository contents
 
-```text
-ODS_PROJECT_REPORT_GROUP11_PORTFOLIO.pdf   Full methodology, experiments, figures, and references
-README.md                                  Project overview (this file)
-```
+`ODS_PROJECT_REPORT_GROUP11_PORTFOLIO.pdf`- Full methodology, experiments, figures, and references
+
 
 ## Code and data availability
 
