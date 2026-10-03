@@ -10,15 +10,15 @@ Developed for the *Optimization for Data Science* course in the MSc in Data Scie
 
 Given expected asset returns \(\bar r\), a covariance matrix \(\Sigma\), and risk-aversion parameter \(\eta\), the portfolio weights \(x\) are found by solving:
 
-\[
+$$
 \min_x \quad \eta x^\top \Sigma x - \bar r^\top x
-\]
+$$
 
 subject to a fully invested, long-only portfolio:
 
-\[
+$$
 \sum_i x_i = 1, \qquad x_i \geq 0.
-\]
+$$
 
 ## Methods compared
 
